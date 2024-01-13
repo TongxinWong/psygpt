@@ -1,16 +1,34 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  # - name: "Services"
+  #   url: "/services/"
+  #   weight: 2
+  # - name: "Team"
+  #   url: "/team/"
+  #   weight: 3
+  # - name: "About"
+  #   url: "/about/"
+  #   weight: 4
+  # - name: "Contact"
+  #   url: "/contact/"
+  #   weight: 5
+  - name: "Oxevision"
+    url: "/oxevision/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Observations"
+    url: "/observations/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Evidence"
+    url: "/evidence/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Resources"
+    url: "/resources/"
     weight: 5
+  - name: "Research Forum"
+    url: "/research_forum/"
+    weight: 6
+  - name: "Blog"
+    url: "/blog/"
+    weight: 7
 
 footer:
   - name: "Home"
