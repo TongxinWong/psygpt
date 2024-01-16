@@ -1,6 +1,6 @@
 baseurl: '/psygpt'
 permalink: pretty
-title: 'Psy GPT'
+title: 'PsyGPT'
 
 logo:
   mobile: "images/logo/psygpt-logo.svg"

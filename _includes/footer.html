@@ -6,6 +6,12 @@
           <h2 class="footer-title">{{site.title}}</h2>
           <ul>
             {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
+            <li class="{% if item.url == page.url %}active{% endif %}">
+              <a href="https://cs.whu.edu.cn/">地址：湖北省武汉市八一路武汉大学 计算机学院</a>
+            </li>
+          </ul>
+          <ul>
+            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
             {% for item in footermenu %}
             <li class="{% if item.url == page.url %}active{% endif %}">
               <a href="{{ item.url | relative_url }}">{{ item.name }}</a>

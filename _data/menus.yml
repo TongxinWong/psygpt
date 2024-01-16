@@ -11,29 +11,29 @@ main:
   # - name: "Contact"
   #   url: "/contact/"
   #   weight: 5
-  - name: "Oxevision"
+  - name: "愿景"
     url: "/oxevision/"
     weight: 2
-  - name: "Observations"
+  - name: "资源"
     url: "/observations/"
     weight: 3
-  - name: "Evidence"
+  - name: "团队"
     url: "/evidence/"
     weight: 4
-  - name: "Resources"
+  - name: "关于"
     url: "/resources/"
     weight: 5
-  - name: "Research Forum"
-    url: "/research_forum/"
-    weight: 6
-  - name: "Blog"
-    url: "/blog/"
-    weight: 7
+  # - name: "Research Forum"
+  #   url: "/research_forum/"
+  #   weight: 6
+  # - name: "Blog"
+  #   url: "/blog/"
+  #   weight: 7
 
 footer:
-  - name: "Home"
+  - name: "项目主页"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "联系方式"
     url: "/contact/"
     weight: 2
