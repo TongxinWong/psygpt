@@ -12,16 +12,16 @@ main:
   #   url: "/contact/"
   #   weight: 5
   - name: "愿景"
-    url: "/oxevision/"
+    url: "/vision/"
     weight: 2
   - name: "资源"
-    url: "/observations/"
+    url: "/services/"
     weight: 3
   - name: "团队"
-    url: "/evidence/"
+    url: "/services/"
     weight: 4
   - name: "关于"
-    url: "/resources/"
+    url: "/about/"
     weight: 5
   # - name: "Research Forum"
   #   url: "/research_forum/"
