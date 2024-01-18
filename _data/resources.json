@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Learning From Synthetic CT Images via Test-Time Training for Liver Tumor Segmentation",
+    "weburl": "https://ieeexplore.ieee.org/document/9754550",
+    "description": "吕菲、叶茫等人（2022）|  IEEE Transactions on Medical Imaging<br><br>这项研究介绍了一种创新的自动肝脏肿瘤分割技术，名为虚拟到现实的测试时训练方法（SR-TTT）。该技术通过结合深度学习和自监督的辅助任务，有效解决了使用合成数据训练和真实数据测试之间的领域转换问题。SR-TTT在两个公共肝脏肿瘤分割数据集上的表现优于现有技术，展示了其在提高肝脏肿瘤诊断准确性方面的潜力。",
+    "image": {
+      "url": "images/resources/paper1.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series",
+    "weburl": "https://ojs.aaai.org/index.php/AAAI/article/view/5440",
+    "description": "谭清雄、叶茫等人（2020）|  the AAAI Conference on Artificial Intelligence<br><br>本研究推出的双注意力时间感知门控循环单元（DATA-GRU）模型，为处理不规则多变量时间序列（IMTS）数据提供了创新解决方案，有效预测患者死亡风险。该模型独特地处理时间间隔变化和数据缺失值，结合数据质量和医学知识，显著优于现有方法，并提供深入的临床洞察。",
+    "image": {
+      "url": "images/resources/paper2.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Pseudo-label guided image synthesis for semi-supervised covid-19 pneumonia infection segmentation",
+    "weburl": "https://ieeexplore.ieee.org/document/9931157",
+    "description": "吕菲、叶茫等人（2023）|  IEEE Transactions on Medical Imaging<br><br>本研究提出了一种新颖的半监督学习方法，用于COVID-19肺炎感染分割，即通过伪标签引导的图像合成技术。该方法通过合成与伪标签相匹配的新图像来扩展训练数据，增强了模型在COVID-19 CT数据集上的分割性能。我们介绍了两种合成辅助方法：单阶段合成辅助交叉伪监督（SA-CPS）和多阶段合成辅助自训练（SA-ST），均取得了优于现有半监督分割方案的最先进性能。相关代码已发布在 https://github.com/FeiLyu/SASSL 。",
+    "image": {
+      "url": "images/resources/paper3.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Cross-Domain Missingness-Aware Time-Series Adaptation With Similarity Distillation in Medical Applications",
+    "weburl": "https://ieeexplore.ieee.org/document/9167415",
+    "description": "杨宝瑶、叶茫等人（2022）|  IEEE Transactions on Cybernetics<br><br>本研究提出了一种创新的无监督时间序列适应方法，用于处理电子健康记录（EHR）中不同实验室参数的医疗时间序列数据。通过开发一个医疗时间序列生成网络，结合相似性蒸馏，该方法有效减少了由实验室参数差异引起的领域差距。此外，我们还引入了一个缺失感知的特征提取网络，并结合域对抗网络，从而加强跨域医疗应用中的性能。在多个私有和公开医疗数据集上的实验结果表明，该方法在跨域医疗分析中取得了良好的性能。",
+    "image": {
+      "url": "images/resources/paper4.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Virtual histology of morphometric similarity network after risperidone monotherapy and imaging-epigenetic biomarkers for treatment response in first-episode schizophrenia",
+    "weburl": "https://www.sciencedirect.com/science/article/pii/S187620182200404X",
+    "description": "宗小芬等人（2023）|  Asian Journal of Psychiatry<br><br>本研究通过整合成像、转录组学和表观遗传学方法，探索了抗精神病治疗对精神分裂症患者大脑连接性的影响。利用T1W成像和DTI对42名首发患者进行前后对比分析，并结合DNA甲基化数据，揭示了治疗相关的大脑网络变化与特定基因表达的联系。研究结果表明，这些变化与认知功能和症状的改善相关，为基于多组学数据开发治疗反应生物标志物提供了新的视角，有助于推动精准医疗的发展。",
+    "image": {
+      "url": "images/resources/paper5.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "A dissociation in effects of risperidone monotherapy on functional and anatomical connectivity within the default mode network",
+    "weburl": "https://pubmed.ncbi.nlm.nih.gov/30508134/",
+    "description": "宗小芬等人（2019）|  Schizophrenia Bulletin<br><br>在对首发精神分裂症患者进行8周利培酮治疗的研究中，通过扩散张量成像和静息态功能磁共振成像，发现默认模式网络（DMN）的功能连接性增强，特别是在后扣带皮质/楔前叶与内侧前额皮层间。这一增强与阳性症状的改善相关，而DMN的纤维完整性未见改变。这些发现为理解精神病药物治疗效果提供了新见解，指出功能连接性的增强可能是利培酮治疗响应的生物标志物。",
+    "image": {
+      "url": "images/resources/paper6.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Risperidone-induced changes in DNA methylation in peripheral blood from first-episode schizophrenia patients parallel changes in neuroimaging and cognitive phenotypes",
+    "weburl": "https://www.sciencedirect.com/science/article/pii/S0165178122003833",
+    "description": "胡茂林等人（2022）|  Psychiatry research<br><br>本研究探讨了利培酮单药治疗对首发未经治疗的精神分裂症患者DNA甲基化（DNAm）的影响。通过对38名患者和相应对照组在治疗前后的DNAm进行比较，研究发现利培酮改变了大量CpG位点的甲基化状态。大部分改变显示出可能的有益效果，而少部分显示潜在不良效果。利培酮治疗后某些DNAm位点的变化与症状严重程度、自发神经生理活动和认知的改变相关。这些发现揭示了利培酮疗法与与大脑生理、认知和症状严重程度变化相关的DNAm变化之间的联系。",
+    "image": {
+      "url": "images/resources/paper7.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "DNA methylation in schizophrenia: progress and challenges",
+    "weburl": "https://www.sciencedirect.com/science/article/abs/pii/S2095927316305084",
+    "description": "胡茂林等人（2015）|  Science Bulletin<br><br>本研究聚焦于精神分裂症的病理机制，特别是基因与环境因素如何通过DNA甲基化相互作用。尽管传统遗传学研究已识别出相关候选基因，但其解释能力受限。表观遗传学，特别是DNA甲基化，被认为在精神分裂症的发病机制中起着关键作用。本文介绍了DNA甲基化机制、全基因组甲基化研究，并识别了精神分裂症患者中特定的基因组甲基化位点，揭示了表观遗传学在理解精神分裂症中的重要性。",
+    "image": {
+      "url": "images/resources/paper8.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

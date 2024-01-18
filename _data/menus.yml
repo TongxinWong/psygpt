@@ -15,10 +15,10 @@ main:
     url: "/vision/"
     weight: 2
   - name: "资源"
-    url: "/services/"
+    url: "/resources/"
     weight: 3
   - name: "团队"
-    url: "/services/"
+    url: "/team/"
     weight: 4
   - name: "关于"
     url: "/about/"

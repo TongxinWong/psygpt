@@ -1,5 +1,5 @@
 ---
-title: About
+title: 关于
 layout: about
 description: About
 bodyClass: page-about
