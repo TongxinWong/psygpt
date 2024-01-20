@@ -1,16 +1,21 @@
 ---
-title: Contact
+title: 联系方式
 layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+> E-mail：yemang AT whu.edu.cn（手动将AT换为@符号）
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+> 办公地点：武汉大学计算机学院E503
+
+> 办公电话：68775286
+
+| 日期 | 工作时间             |
+| --- | ------------------ |
+| 周一 | 上午8:30 - 下午5:00  |
+| 周二 | 上午8:30 - 下午5:00  |
+| 周三 | 上午8:30 - 下午5:00  |
+| 周四 | 上午8:30 - 下午5:00  |
+| 周五 | 上午8:30 - 下午5:00  |
+| 周六 | 上午10:00 - 下午4:00 |
+| 周日 | 休息                |
